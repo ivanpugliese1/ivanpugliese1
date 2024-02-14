@@ -1,16 +1,22 @@
-### Hi there 👋
+# Ivan Pugliese
 
-<!--
-**ivanpugliese1/ivanpugliese1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estudiante de Desarrollo Full-Stack JavaScript
 
-Here are some ideas to get you started:
+Nací el 6 de Febrero de 1999 en Argentina. Apasionado por la tecnología desde muy joven y de la programación desde que me adentre en el mundo de forma autodidacta. Considero que la mejor herramienta es el ***conocimiento de uno mismo*** y mi mayor motivación es seguir aprendiendo, fortaleciendo mi **desarrollo personal y profesional.** 🔥
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 5 comandos de la terminal
+
+| Comando      | Descripción |
+| -----------  | ----------- |
+| ls           | listar archivos y directorios en una ubicación específica |
+| cd           | cambiar de directorio |
+| rm           | eliminar un archivo |
+| clear        | vaciar o limpiar la terminal de comandos |
+| cat          | muestra el contenido de un archivo |
+
+### 2 comandos alias de la terminal
+
+| Alias       | Descripción |
+| ----------- | ----------- |
+| cl          | clear |
+| npmd        | npm run dev |
