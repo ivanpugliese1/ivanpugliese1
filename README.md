@@ -1,20 +1,19 @@
 <h1 align="center"><b>Hola! mi nombre es Ivan Pugliese </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
+📊 Data Analyst B2B en constante crecimiento. Aprendo haciendo, proyecto a proyecto.
 
-🖥️ Full stack developer en construcción — aprendo haciendo, proyecto a proyecto, paso a paso.
+Vengo del mundo comercial: años trabajando codo a codo con clientes corporativos y equipos, traduciendo problemas reales de negocio en soluciones concretas. Hoy enfoco esa experiencia en el Análisis de Datos, transformando información en valor estratégico con SQL, Python y Power BI, apoyándome en mi conocimiento de desarrollo para tener una visión completa del producto.
 
-Vengo del mundo comercial: años trabajando codo a codo con clientes y equipos,
-analizando datos con SQL y Power BI, y traduciendo problemas reales en soluciones concretas.
-Hoy aplico esa experiencia al Desarrollo de Software.
+🌐 Desarrollo Web: Mis conocimientos en desarrollo web (HTML, CSS, JavaScript, React, Tailwind) me permiten no solo analizar la información, sino entender cómo se estructura, cómo interactúa el usuario con la interfaz y cómo llevar esos insights a dashboards o aplicaciones reales.
 
-- Comprometido con las buenas prácticas desde el principio: código limpio, seguridad y adaptación a las herramientas de IA como parte natural del flujo de trabajo moderno.
-- Incorporando también los fundamentos de Ciberseguridad — porque escribir código seguro empieza desde el principio.
+⚙️ Buenas prácticas desde el principio: Análisis riguroso, código limpio y adopción de herramientas de IA como parte natural del flujo de trabajo analítico.
 
-- 🌱 Próximamente Tecnicatura en Desarrollo de Software — ISTEA, Buenos Aires (2026 - Segundo cuatrimestre).
+🛡️ Ciberseguridad como complemento estratégico: Entender los fundamentos de seguridad me permite gestionar y proteger la información de negocio desde el primer momento.
 
-- 🧐 [Mi Porfolio](https://www.linkedin.com/in/ivan-pugliese/)
-- 📨 ivanpugliesecontacto@gmail.com
+🌱 Próximamente: Carrera de Análisis de Sistemas (Agosto 2026) — para seguir fortaleciendo mis bases en la intersección entre datos, desarrollo, tecnología y negocio.
+
+- 🧐 [Mi Porfolio](https://ivanpugliese-dev.vercel.app/)
+- 📨 ivanpugliese.f@gmail.com
 - 💻 [Linkedin](https://www.linkedin.com/in/ivan-pugliese/)
   
 
@@ -34,12 +33,12 @@ Hoy aplico esa experiencia al Desarrollo de Software.
 <h4>Otras herramientas y tecnologías</h4>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)">
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
+  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
+  <img src="https://img.shields.io/badge/Google%20Sheets-%2334A853?style=for-the-badge&logo=googlesheets&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+  <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black">
 </span>
 
 <h4>IA</h4>
